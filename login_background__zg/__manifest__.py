@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "login_background_ZG",
+    'name': "Login Background Image",
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
