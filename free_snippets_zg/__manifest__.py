@@ -3,11 +3,10 @@
     'name': "free_snippets_zg",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Free Website Snippets""",
 
     'description': """
-        Long description of module's purpose
+        Free web snippets
     """,
 
     'author': "My Company",
@@ -18,6 +17,7 @@
     # for the full list
     'category': 'Uncategorized',
     'version': '0.1',
+    'license': 'LGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['base','website','web'],
