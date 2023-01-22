@@ -3,11 +3,10 @@
     'name': "Login Background Image",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Background Image For Odoo Login Page""",
 
     'description': """
-        Long description of module's purpose
+        Set Login background Image
     """,
 
     'author': "Zero Gravity",

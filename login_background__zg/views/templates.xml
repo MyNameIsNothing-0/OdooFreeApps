@@ -28,15 +28,15 @@
             </div>
         </t>
     </template> -->
-
+<!-- 
     <template id="login_layout" inherit_id="web.login_layout" name="Website Login Layout" priority="20">
     <xpath expr="t" position="replace">
       <t t-set="bg_image" t-value="'data:image/*;base64,'+str(request.env['ir.config_parameter'].sudo().get_param('login_background__zg.login_background_image'))" />
         <t t-call="website.layout">
-            <div class="oe_website_login_container" t-attf-style="background-image: url('#{bg_image}'); background-color: #{background_color};" t-out="0"/>
+            <div class="oe_website_login_container" t-attf-style="background-image: url('#{bg_image}');" t-out="0"/>
         </t>
     </xpath>
 </template>
-
+ -->
     </data>
 </odoo>
