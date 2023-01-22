@@ -9,7 +9,7 @@
         Free web snippets
     """,
 
-    'author': "My Company",
+    'author': "Zero Gravity",
     'website': "https://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
