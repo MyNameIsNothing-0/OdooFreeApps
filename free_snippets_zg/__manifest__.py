@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "free_snippets_zg",
+    'name': "Odoo Free Snippets",
 
     'summary': """
         Free Website Snippets""",
@@ -24,8 +24,6 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
-        'views/views.xml',
         'views/templates.xml',
     ],
     'assets': {
